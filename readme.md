@@ -1,7 +1,8 @@
 # Larticles API
 
 > Laravel 5.5 API that uses the API resources. This is an API for an article CRUD app, all in one.
-> I'm using the Mozilla Fetch API to make all CRUD calls
+>
+> Implementing Mozilla Fetch API to make all CRUD calls
 
 ## Quick Start
 
